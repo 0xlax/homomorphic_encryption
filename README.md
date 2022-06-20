@@ -11,7 +11,7 @@ References
 Setup:
 
 
-[homomorphic](https://humanata.com/images/blog/aheip/thumbnail.png)
+![homomorphic](https://humanata.com/images/blog/aheip/thumbnail.png)
 
 
 Compile wasm library from ```server/static/wasm/wasm_exec.js```
